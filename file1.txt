@@ -1,0 +1,20 @@
+“cd” (change directory) used to go from one directory to another directory (folder) 
+“pwd” (present work directory) which folder you are currently in
+“mkdir”------ is a key word used to create a folder
+“ls”------ command used to see if there is any content inside a specific folder
+“touch”------ command used to create a file
+“ls -l”------ command“cd” :(change directory) used to go from one directory to another directory (folder) 
+“pwd” :(present work directory) which folder you are currently in
+“mkdir” :is a key word used to create a folder
+“ls” :command used to see if there is any content inside a specific folder
+“touch” :command used to create a file
+“ls -l” :command used to see details of a file/folder
+vi/nano------ used to edit
+cat----- shows the content of a file
+Grep---- to get string value from a file
+Sudo---- admin power 
+Chmod --- change file permission
+rm---- remove a file or folder
+Cp ---- to copy a folder or file
+
+
